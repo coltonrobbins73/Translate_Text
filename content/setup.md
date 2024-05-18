@@ -13,3 +13,7 @@ weight = 2
 3. Choose your file
 4. Select your target language
 5. Download the translated file
+
+#### Improve your confidence in the translation
+
+Try translating back to your source language to see if any meanings have been lost.
