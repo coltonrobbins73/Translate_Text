@@ -1,5 +1,5 @@
 +++
-title = ''
+title = 'Budget'
 date = 2024-05-17T20:33:31-07:00
 draft = false
 weight = 1
