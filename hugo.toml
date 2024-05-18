@@ -1,6 +1,6 @@
-baseURL = 'https://bio-recap.github.io/Translate_Text/'
+baseURL = 'https://bio-recap.github.io/Translate_Documents/'
 languageCode = 'en-us'
-title = 'Translate Text'
+title = 'Translate Documents'
 theme = 'study_blog_relearn'
 
 [menu]
