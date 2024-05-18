@@ -14,11 +14,12 @@ weight = 3
 
 ###### Use an [**online PDF splitting tool**](https://smallpdf.com/split-pdf)
 
+![PDF splitting tool](/Translate_Documents/images/split_pdfs_instructions.gif?height=300px)
+
 1. Select your file
 2. Choose where you want to split the PDF
 3. Download separated files
 
-![PDF splitting tool](/Translate_Documents/images/split_pdfs_instructions.gif?height=300px)
 
 #### Word, Powerpoint, Excel
 Copy and paste subsections into new documents and then reassemble them after the translation. Be sure to number the subsections for easier reassembly.
