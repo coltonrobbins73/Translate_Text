@@ -2,7 +2,7 @@
 title = 'Large Documents'
 date = 2024-05-17T23:59:21-07:00
 draft = false
-weight = 3
+weight = 5
 +++
 
 ![Size limit warning](/Translate_Documents/images/size_limit_warning.png)

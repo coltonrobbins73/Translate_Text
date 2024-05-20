@@ -11,4 +11,6 @@ title = "Translate Documents"
 
 * [**Why Google Translate is the Smart Choice**](/services.md)
 * [**Quick-start guide for Google Translate**](/setup.md)
+* [**Is Google Translate accurate enough?**](/benchmark.md)
+* [**Translation examples**](/examples.md)
 * [**Handling large documents**](/large_documents.md)
